@@ -6,4 +6,6 @@ tmp/
 # sbteclipse plugin
 .target
 *.class
+target/
+
 
